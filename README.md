@@ -14,7 +14,7 @@
 
 <h3 align="center">A passionate and aspiring Java Developer with expertise in various technologies.</h3>
 <div align="center">
-  <h4>CORE-JAVA | J2EE | HIBERNATE | SPRING MVC | SPRING REST | SPRING BOOT</h4>
+  <h4>CORE-JAVA  |  J2EE  |  HIBERNATE  |  SPRING MVC  |  SPRING REST  |  SPRING BOOT</h4>
 </div>
 <div align="center">
   
