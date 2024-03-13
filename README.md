@@ -20,7 +20,7 @@
   
   - 💬 Ask me about **Tech advice & discussion**
 
-- 📫 How to reach me **rushichape2301@gmail.com**
+- 📫 How to reach me **rushichape23@gmail.com**
 </div>
 
 ###
